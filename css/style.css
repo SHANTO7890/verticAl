@@ -1,0 +1,90 @@
+.vertical-lr{
+    width: 300px;
+	font-size: 40px;
+	font-family: arial;
+	font-weight: 550;
+    color: gray;
+    writing-mode: vertical-rl;
+    margin-top: 30px;
+    float: left;
+    margin-left: 30px
+    
+}
+.vertical-lr2{
+    width: 300px;
+	font-size: 40px;
+	font-family: arial;
+	font-weight: 550;
+    color: red;
+    writing-mode: vertical-rl;
+    margin-top: 30px;
+    float: left;
+    transform: rotate(180deg);
+    margin-left: 30px
+}
+.pera1{
+    width: 300px;
+	font-size: 20px;
+	font-family: arial;
+	 color: black;
+   margin-top: 30px;
+    float: left;
+     margin-left: 50px
+}
+.vertical-lr{
+    width: 200px;
+	font-size: 40px;
+	font-family: arial;
+	font-weight: 550;
+    color: red;
+    writing-mode: vertical-lr;
+    margin-left: 120px;
+    float: left;
+    
+}
+.coloum{
+    width: 100%;
+    height: 550px;
+    border: 2px solid green
+}
+.coloum1{
+    width: 100%;
+    border: 2px solid red;
+    text-align: justify;
+    column-count: 4;
+    column-gap: 40px;
+    column-rule: 10px green solid
+    
+    
+}
+.coloum2{
+     width: 100%;
+    border: 2px solid red;
+    text-align: justify;
+    margin-top: 20px;
+    column-count: 4;
+    column-gap: 40px;
+    column-rule: 10px blue solid
+    
+}
+.coloum3{
+     width: 100%;
+    border: 2px solid red;
+    text-align: justify;
+    margin-top: 20px;
+    column-count: 4;
+    column-gap: 40px;
+    column-rule: 10px aqua solid
+    
+}
+.coloum4{
+     width: 100%;
+    border: 2px solid red;
+    text-align: justify;
+    margin-top: 20px;
+    column-count: 4;
+    column-gap: 40px;
+    column-rule: 10px black solid
+    
+}
+
